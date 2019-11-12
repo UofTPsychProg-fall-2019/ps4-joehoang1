@@ -4,7 +4,7 @@ In study 1, I would be examining this effect by using a simple correlation study
 In study 2, I would be examining the effects of lay beliefs on social class. This study would involve a manipulation where half the participants would be randomly assigned to a condition where they would be manipulated to have a more fixed lay belief or a more incremental lay belief. They would then answer a following list of questions that proceed from one question to the next.
 In study 3, I would be examining the effects of social class on lay beliefs. This study would follow the same design as study 2 except the variable that is being manipulated is social class.
 
-Study 1:
+Study 1 (Correlational Study):
 First block consent form
 	If participants answers yes for consent they would be redirected to the next block and answer the questions until it is all finished. It will end with the debrief form. 
 	If the participants answer no, they would be redirected to a page that says thank you for their initial interest with the study and that they can now close the browser
@@ -13,7 +13,7 @@ Other questions block
 Debriefing block 
 	Participants would be given information about the study and consent to us using the data they have provided us. Regardless of what they answer they would be redirected to the end screen thanking them for helping with our study and that they can close the browser now 
 
-Study 2: 
+Study 2 (Experimental Study): 
 First block consent form
 	If participants answers yes for consent they would be redirected to the manipulation block and answer the questions until it is all finished. It will end with the debrief form. 
 	If the participants answer no, they would be redirected to a page that says thank you for their initial interest with the study and that they can now close the browser. 
@@ -25,7 +25,7 @@ Other question blocks
 Debriefing block 
 	Participants would be given information about the study and consent to us using the data they have provided us. Regardless of what they answer they would be redirected to the end screen thanking them for helping with our study and that they can close the browser now 
 
-Study 3: 
+Study 3 (Experimental Study): 
 First block consent form
 	If participants answers yes for consent they would be redirected to the manipulation block and answer the questions until it is all finished. It will end with the debrief form. 
 	If the participants answer no, they would be redirected to a page that says thank you for their initial interest with the study and that they can now close the browser. 
